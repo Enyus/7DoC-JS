@@ -10,12 +10,18 @@ body {
     background-color: black;
 }
 
-h1, h2 {
+h1 {
+    text-align: center;
+}
+
+h2 {
+    max-width: 80%;
+    margin: 0 auto;
     text-align: center;
 }
 
 div {
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
     border-bottom: 1px solid;
     padding: 10px;
