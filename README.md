@@ -4,7 +4,7 @@ Repositório para guardar os desafios do #7DaysOfCode em Javascript da Alura
 * Dia 1 - Operadores Lógicos ✅
 * Dia 2 - Variáveis ✅
 * Dia 3 - Estruturas de controle de fluxo - com loops ✅
-* Dia 4
+* Dia 4 - Estruturas de repetição - mais loops ✅
 * Dia 5
 * Dia 6
 * Dia 7
