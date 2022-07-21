@@ -7,4 +7,4 @@ Repositório para guardar os desafios do #7DaysOfCode em Javascript da Alura
 * Dia 4 - Estruturas de repetição - mais loops ✅
 * Dia 5 - Listas/Arrays ✅
 * Dia 6 - Retirar Itens de Listas/Arrays ✅
-* Dia 7
+* Dia 7 - Calculadora ✅✅
