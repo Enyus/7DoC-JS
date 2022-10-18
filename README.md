@@ -8,7 +8,7 @@ Repositório para guardar os desafios do #7DaysOfCode em Javascript da Alura
 | :rocket: URL         | https://enyus.github.io/7DoC-JS/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![preview](https://i.imgur.com/1pLOFVz.png#vitrinedev)
+![](https://i.imgur.com/1pLOFVz.png#vitrinedev)
 
 ## Detalhes do Projeto
 
